@@ -8,3 +8,5 @@ lxml
 python-socks
 pycryptodome
 pydash2hls
+gunicorn
+aiohttp
